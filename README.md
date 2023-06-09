@@ -1,3 +1,3 @@
 # Dark-mode-chrome-extension
-Changes the theme to dark mode
+Changes the website's theme to dark mode
 
